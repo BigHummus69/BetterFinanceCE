@@ -3,7 +3,11 @@ A finance program for the CE. (WIP)
 
 Has as of now:
 Compound Interest
+<br>
 Simple Interest
+<br>
+APY
+<br>
 
 # DOWNLOADS
 
