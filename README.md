@@ -1,7 +1,7 @@
 # BetterFinanceCE
 A finance program for the CE. (WIP)
 
-Has as of now:
+Has as of now: <br>
 Compound Interest
 <br>
 Simple Interest
